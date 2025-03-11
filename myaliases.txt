@@ -1,0 +1,4 @@
+mycat cat
+mycopy cp
+mydel rm
+myhelp help
